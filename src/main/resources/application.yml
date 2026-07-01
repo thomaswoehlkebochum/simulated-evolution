@@ -28,10 +28,10 @@ simulatedevolution:
   view:
     title: 'Simulated Evolution'
     subtitle: 'Artificial Life Simulation of Bacteria Motion depending on DNA'
-    copyright: "(C) 2022 Thomas Woehlke"
+    copyright: "(C) 2026 Thomas Woehlke"
     width: 320
     height: 234
-    scale: 3
+    scale: 2
     heightOfTitle: 40
     heightOfStatistics: 80
     heightOfStatisticsCanvas: 120
