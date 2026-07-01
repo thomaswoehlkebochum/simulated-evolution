@@ -20,18 +20,18 @@
     </poweredBy>
     <body>
         <links>
-            <item name="GitHub project" href="https://github.com/Computer-Kurzweil/simulated-evolution" />
+            <item name="GitHub project" href="https://github.com/thomaswoehlkebochum/simulated-evolution" />
         </links>
         <breadcrumbs>
             <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlke" />
-            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/Computer-Kurzweil/" />
-            <item name="Fork this on GitHub" href="https://github.com/Computer-Kurzweil/simulated-evolution/" />
+            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/thomaswoehlkebochum/" />
+            <item name="Fork this on GitHub" href="https://github.com/thomaswoehlkebochum/simulated-evolution/" />
             <item name="Simulated Evolution" href="index.html" />
         </breadcrumbs>
         <menu name="Overview" inherit="top">
             <item name="Home" href="index.html" />
-            <item name="Fork this on GitHub" href="https://github.com/Computer-Kurzweil/simulated-evolution" />
-            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/Computer-Kurzweil/" />
+            <item name="Fork this on GitHub" href="https://github.com/thomaswoehlkebochum/simulated-evolution" />
+            <item name="Computer-Kurzweil Group on GitHub" href="https://github.com/thomaswoehlkebochum/" />
             <item name="Thomas Woehlke on GitHub" href="https://github.com/thomaswoehlke" />
             <item name="Donate" href="https://www.paypal.me/ThomasWoehlke" />
         </menu>
@@ -42,9 +42,9 @@
         <menu name="Progress" inherit="bottom">
             <item name="CHANGELOG" href="CHANGELOG.html" />
             <item name="TODO" href="TODO.html" />
-            <item name="Github: Issues" href="https://github.com/Computer-Kurzweil/simulated-evolution/issues/" />
-            <item name="Github: Milestones" href="https://github.com/Computer-Kurzweil/simulated-evolution/milestones" />
-            <item name="Github: Releases" href="https://github.com/Computer-Kurzweil/simulated-evolution/releases/" />
+            <item name="Github: Issues" href="https://github.com/thomaswoehlkebochum/simulated-evolution/issues/" />
+            <item name="Github: Milestones" href="https://github.com/thomaswoehlkebochum/simulated-evolution/milestones" />
+            <item name="Github: Releases" href="https://github.com/thomaswoehlkebochum/simulated-evolution/releases/" />
         </menu>
         <menu name="Maven Reports" ref="reports" inherit="bottom"/>
     </body>

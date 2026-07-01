@@ -1,6 +1,6 @@
 # Simulated Evolution
 
-![Java CI with Maven](https://github.com/Computer-Kurzweil/simulated-evolution/workflows/Java%20CI%20with%20Maven/badge.svg)
+![Java CI with Maven](https://github.com/thomaswoehlkebochum/simulated-evolution/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 **Artificial Life Simulation of Bacteria Motion depending on DNA**
 
@@ -15,7 +15,7 @@ If a cell doesn't eat enough, it will first stand still and after a while it die
 ## Run the Desktop Application
 
 ```
-git clone https://github.com/Computer-Kurzweil/simulated-evolution.git
+git clone https://github.com/thomaswoehlkebochum/simulated-evolution.git
 cd simulated-evolution
 ./mvnw
 ```
@@ -33,7 +33,7 @@ cd simulated-evolution
 
 
 ## Repositories
-* [Github Repository](https://github.com/Computer-Kurzweil/simulated-evolution)
+* [Github Repository](https://github.com/thomaswoehlkebochum/simulated-evolution)
 * [Maven Project Reports](https://java.woehlke.org/simulated-evolution)
 
 ## Blog Article

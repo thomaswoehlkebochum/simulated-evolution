@@ -18,14 +18,14 @@
     <inceptionYear>2013</inceptionYear>
 
     <scm>
-        <connection>scm:git:git@github.com:Computer-Kurzweil/simulated-evolution.git</connection>
-        <developerConnection>scm:git:git@github.com:Computer-Kurzweil/simulated-evolution.git</developerConnection>
-        <url>https://github.com/Computer-Kurzweil/simulated-evolution/tree/${project.scm.tag}</url>
+        <connection>scm:git:git@github.com:thomaswoehlkebochum/simulated-evolution.git</connection>
+        <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/simulated-evolution.git</developerConnection>
+        <url>https://github.com/thomaswoehlkebochum/simulated-evolution/tree/${project.scm.tag}</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/Computer-Kurzweil/simulated-evolution/issues/</url>
+        <url>https://github.com/thomaswoehlkebochum/simulated-evolution/issues/</url>
         <system>GitHub</system>
     </issueManagement>
 
